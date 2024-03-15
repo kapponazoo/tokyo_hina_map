@@ -13,6 +13,7 @@ BingmapとBmapQuery.js、オブジェクトとわたしのひなまつり情報�
 
 
 ③DEMO
+https://kapponazoo.github.io/tokyo_hina_map/
 
 ④工夫した点・こだわった点
 
